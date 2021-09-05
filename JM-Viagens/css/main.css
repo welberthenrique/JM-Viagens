@@ -1,0 +1,15 @@
+#menu, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#menu a{
+    text-decoration: none;
+    padding: 53px 20px;
+    color: #00367b;
+}
+
+#menu a:hover{
+    text-decoration: none;
+    background-color: orange;
+    color:#00367b;
+}
